@@ -26,6 +26,15 @@ Constantly exploring new technologies and best practices to stay ahead of the cu
 
 ---
 
+## 🚀 Tech Stack
+
+- 🧩 **Frameworks & Libraries:** React, Next.js, Lit (Web Components)  
+- 🛠 **Languages:** JavaScript (ES6+), TypeScript  
+- 🏗 **Bundling & Architecture:** Webpack, Module Federation  
+- 📚 **Learning Mindset:** Always open to exploring new frameworks, tools, and best practices
+
+---
+
 ## 🤝 Let's Collaborate
 
 I thrive in **collaborative environments** and love solving challenges that push the limits of what’s possible in web development.
