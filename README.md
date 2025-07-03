@@ -14,6 +14,16 @@ Built custom low-code tools that significantly **boosted team productivity** and
 
 Led the **migration to Micro-frontend architecture** using **Webpack Module Federation**, improving our applications' **modularity**, **scalability**, and **long-term maintainability**.
 
+### 📘 Design System 
+
+Built two robust and scalable Design Systems from the ground up:
+
+⚡️ One powered by **Lit Web Components** — a framework-agnostic, fast, and lightweight system enabling seamless cross-framework compatibility.
+
+🎨 Another built with **shadcn/ui & Tailwind CSS** — focused on rapid development, accessibility, and consistent UX across modern React applications.
+
+These systems not only unified visual language across multiple products but also accelerated UI development through reusable, well-documented, and customizable components.
+
 ### 🧠 Dynamic Rule Engine Development
   
 Designed and implemented a **flexible rule engine** to handle dynamic UI validations. This system supports **complex business logic** and enables reusable, configurable UI components.
@@ -21,16 +31,6 @@ Designed and implemented a **flexible rule engine** to handle dynamic UI validat
 ### 🎯 Frontend Development Expertise
  
 Strong focus on building **responsive**, **accessible**, and **high-performance UIs**. I enjoy crafting interactive web experiences that users actually enjoy using.
-
-### 📘 Design System 
-
-Built two robust and scalable Design Systems from the ground up:
-
-⚡️ One powered by Lit Web Components — a framework-agnostic, fast, and lightweight system enabling seamless cross-framework compatibility.
-
-🎨 Another built with shadcn/ui & Tailwind CSS — focused on rapid development, accessibility, and consistent UX across modern React applications.
-
-These systems not only unified visual language across multiple products but also accelerated UI development through reusable, well-documented, and customizable components.
 
 ### 🔁 Continuous Improvement 
  
